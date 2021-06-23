@@ -1,0 +1,20 @@
+C:\Users\Luis\Documents\7mo Semestre Ago-Dic 2020\Repositorio Inteligencia Artificial\17151235_CastañedaSánchezJoséLuis\EjemploGenetico\EjemploGenetico\bin\Debug\EjemploGenetico.exe.config
+C:\Users\Luis\Documents\7mo Semestre Ago-Dic 2020\Repositorio Inteligencia Artificial\17151235_CastañedaSánchezJoséLuis\EjemploGenetico\EjemploGenetico\bin\Debug\EjemploGenetico.exe
+C:\Users\Luis\Documents\7mo Semestre Ago-Dic 2020\Repositorio Inteligencia Artificial\17151235_CastañedaSánchezJoséLuis\EjemploGenetico\EjemploGenetico\bin\Debug\EjemploGenetico.pdb
+C:\Users\Luis\Documents\7mo Semestre Ago-Dic 2020\Repositorio Inteligencia Artificial\17151235_CastañedaSánchezJoséLuis\EjemploGenetico\EjemploGenetico\obj\Debug\EjemploGenetico.csprojAssemblyReference.cache
+C:\Users\Luis\Documents\7mo Semestre Ago-Dic 2020\Repositorio Inteligencia Artificial\17151235_CastañedaSánchezJoséLuis\EjemploGenetico\EjemploGenetico\obj\Debug\EjemploGenetico.Form1.resources
+C:\Users\Luis\Documents\7mo Semestre Ago-Dic 2020\Repositorio Inteligencia Artificial\17151235_CastañedaSánchezJoséLuis\EjemploGenetico\EjemploGenetico\obj\Debug\EjemploGenetico.Properties.Resources.resources
+C:\Users\Luis\Documents\7mo Semestre Ago-Dic 2020\Repositorio Inteligencia Artificial\17151235_CastañedaSánchezJoséLuis\EjemploGenetico\EjemploGenetico\obj\Debug\EjemploGenetico.csproj.GenerateResource.cache
+C:\Users\Luis\Documents\7mo Semestre Ago-Dic 2020\Repositorio Inteligencia Artificial\17151235_CastañedaSánchezJoséLuis\EjemploGenetico\EjemploGenetico\obj\Debug\EjemploGenetico.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Documents\7mo Semestre Ago-Dic 2020\Repositorio Inteligencia Artificial\17151235_CastañedaSánchezJoséLuis\EjemploGenetico\EjemploGenetico\obj\Debug\EjemploGenetico.exe
+C:\Users\Luis\Documents\7mo Semestre Ago-Dic 2020\Repositorio Inteligencia Artificial\17151235_CastañedaSánchezJoséLuis\EjemploGenetico\EjemploGenetico\obj\Debug\EjemploGenetico.pdb
+C:\Users\Luis\Documents\8vo Semestre Ene-Jun 2021\3.- Ingenieria del Conocimiento\Unidad 3 y 4\EjemploGenetico\EjemploGenetico\bin\Debug\EjemploGenetico.exe.config
+C:\Users\Luis\Documents\8vo Semestre Ene-Jun 2021\3.- Ingenieria del Conocimiento\Unidad 3 y 4\EjemploGenetico\EjemploGenetico\bin\Debug\EjemploGenetico.exe
+C:\Users\Luis\Documents\8vo Semestre Ene-Jun 2021\3.- Ingenieria del Conocimiento\Unidad 3 y 4\EjemploGenetico\EjemploGenetico\bin\Debug\EjemploGenetico.pdb
+C:\Users\Luis\Documents\8vo Semestre Ene-Jun 2021\3.- Ingenieria del Conocimiento\Unidad 3 y 4\EjemploGenetico\EjemploGenetico\obj\Debug\EjemploGenetico.csprojAssemblyReference.cache
+C:\Users\Luis\Documents\8vo Semestre Ene-Jun 2021\3.- Ingenieria del Conocimiento\Unidad 3 y 4\EjemploGenetico\EjemploGenetico\obj\Debug\EjemploGenetico.Form1.resources
+C:\Users\Luis\Documents\8vo Semestre Ene-Jun 2021\3.- Ingenieria del Conocimiento\Unidad 3 y 4\EjemploGenetico\EjemploGenetico\obj\Debug\EjemploGenetico.Properties.Resources.resources
+C:\Users\Luis\Documents\8vo Semestre Ene-Jun 2021\3.- Ingenieria del Conocimiento\Unidad 3 y 4\EjemploGenetico\EjemploGenetico\obj\Debug\EjemploGenetico.csproj.GenerateResource.cache
+C:\Users\Luis\Documents\8vo Semestre Ene-Jun 2021\3.- Ingenieria del Conocimiento\Unidad 3 y 4\EjemploGenetico\EjemploGenetico\obj\Debug\EjemploGenetico.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Documents\8vo Semestre Ene-Jun 2021\3.- Ingenieria del Conocimiento\Unidad 3 y 4\EjemploGenetico\EjemploGenetico\obj\Debug\EjemploGenetico.exe
+C:\Users\Luis\Documents\8vo Semestre Ene-Jun 2021\3.- Ingenieria del Conocimiento\Unidad 3 y 4\EjemploGenetico\EjemploGenetico\obj\Debug\EjemploGenetico.pdb
